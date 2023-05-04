@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@somnathbiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@somnathbiswas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/somnath-biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somnath-biswas" height="30" width="40" /></a>
-<a href="https://codesandbox.com/somnathbiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="somnathbiswas" height="30" width="40" /></a>
+<a href="https://codepen.io/SomnathBiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@somnathbiswas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/somnath-biswas-08b81a1b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somnath-biswas" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/SomnathBiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="somnathbiswas" height="30" width="40" /></a>
 <a href="https://instagram.com/soul_tracker_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soul_tracker_14" height="30" width="40" /></a>
 </p>
 
