@@ -50,9 +50,10 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
 </div>
 
-![Snake animation](https://github.com/SomnathBiswas/SomnathBiswas/blob/output/github-contribution-grid-snake.svg)
+
 ###
 
 <br clear="both">
 
-###
+
+
