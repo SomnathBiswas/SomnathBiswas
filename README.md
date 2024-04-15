@@ -1,5 +1,11 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
+
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=00f200&width=535&lines=Hi,+I'm+Somnath;I'm+a+Developer;+I+love+Web+Development;+Into+UI/UX;Checkout+my+Projects;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
+</div>
+
+
 <div>
 <table> <tr> <td> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="animated hello"> </td> <td> <img src="https://github.com/SomnathBiswas/SomnathBiswas/assets/108716703/c8ba0111-51ed-4d7c-9ac8-3e35581b2853" width="400" alt="animated thumbs up"> </td> </tr> </table></div>
 
