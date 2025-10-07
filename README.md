@@ -1,8 +1,9 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-
+<div class = "text-align: center;">
 <div style="text-align: center;"> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=00f200&width=535&lines=Hi,+I'm+Somnath;I'm+a+Developer;+I+love+Web+Development;+Into+UI/UX;Checkout+my+Projects;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
+</div>
 </div>
 
 
@@ -12,10 +13,10 @@
 
 
 # 💫 About Me:
-Hello 👋 I'm Somnath Biswas, a B.Tech. final year student specializing in Computer Science & Engineering. Passionate about coding and problem-solving, I have found my true calling in Web Development. 💻 As a fervent learner, I've honed my skills in HTML, CSS, JavaScript, and modern frameworks like React. Crafting intuitive web applications and creating seamless user experiences excites me. 🎯 My journey has been a quest to solve complex problems with elegant solutions. Whether it's a coding challenge or a real-life obstacle, I thrive on finding innovative ways to overcome them. 🌐 With graduation on the horizon, I'm eager to embark on a fulfilling career in Web Development. I'm open to exciting opportunities where I can contribute my creativity and technical acumen.
+Hello 👋 I'm Somnath Biswas, a Project Engineer at Wipro Technologies. Passionate about coding and web development. I work with HTML, CSS, JS, C#, .NET, Angular, and SQL to build user-frienldly applications.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_cryp2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/somnath-biswas-08b81a1b0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HelloSomnath) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/somnath-biswas-08b81a1b0)
 
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
